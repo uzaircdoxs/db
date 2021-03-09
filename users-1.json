@@ -1,0 +1,600 @@
+[{
+  "_id": {
+    "$oid": "5fe1d5f18f77ba100c1ccc6b"
+  },
+  "roll": "User",
+  "blocked": false,
+  "language": "en",
+  "status": "Approved",
+  "playerId": "9c111f3e-e7eb-43f2-9f3a-c45a693a8d00",
+  "firstname": "Masoon",
+  "lastname": "User",
+  "email": "masoonuser@gmail.com",
+  "password": "$2a$10$mwmSHRLv/hh24hBs1t9AA.F9dnizDMcojnK2l1oBTHvhBi.pGlaM6",
+  "phone_number": "+966546060960",
+  "createdAt": {
+    "$date": "2019-12-22T11:18:09.615Z"
+  },
+  "__v": 0,
+  "otp": "false",
+  "otp_expires": null,
+  "active": true,
+  "profile_image": "upload/profile_image-image_picker-1690740530.jpg"
+},{
+  "_id": {
+    "$oid": "5fe3126bacb1554880e78eb3"
+  },
+  "roll": "Admin",
+  "blocked": false,
+  "language": "en",
+  "status": "Pending",
+  "playerId": null,
+  "firstname": "Taymoor",
+  "lastname": "Akbar",
+  "email": "abdullahgulyani@gmail.com",
+  "password": "$2a$10$0uC35l1RO5QK9rzlGnMF/O6567mjx7cJxNe4AR14jNNSLD16moebm",
+  "phone_number": "11111111",
+  "createdAt": {
+    "$date": "2020-12-23T09:48:27.227Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false,
+  "profile_image": "upload/profile_image-iphone-wallpaper-abstract-design-23.jpg"
+},{
+  "_id": {
+    "$oid": "5fe313bbacb1554880e78eb5"
+  },
+  "roll": "Publisher",
+  "blocked": false,
+  "language": "en",
+  "status": "Approved",
+  "playerId": "3a960eb9-71cd-4145-a802-2e4a051e8c64",
+  "firstname": "Advertiser",
+  "lastname": "One",
+  "email": "masoonadv@gmail.com",
+  "password": "$2a$10$DGm2koYHa/mpi1F3oMFQwOa/OYvz70pA6EPFPrDwa2Nt/L1McL90K",
+  "phone_number": "+96678747744",
+  "createdAt": {
+    "$date": "2020-12-23T09:54:03.161Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false,
+  "profile_image": "upload/profile_image-Cdoxs-Logo.png"
+},{
+  "_id": {
+    "$oid": "5fe335b0ae884834bcf3712a"
+  },
+  "roll": "Publisher",
+  "blocked": false,
+  "language": "en",
+  "status": "Approved",
+  "playerId": null,
+  "firstname": "Advertiser",
+  "lastname": "two",
+  "email": "advertisertwo@gmail.com",
+  "password": "$2a$10$7MI5So0ANWfvp/QIllfb.e6P/oyUpZjr1pCGgr21F.pFeWPiQYYIC",
+  "phone_number": "+9664545464654",
+  "createdAt": {
+    "$date": "2020-12-23T12:18:56.191Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": true
+},{
+  "_id": {
+    "$oid": "5fec57c16a25ef20c85b616e"
+  },
+  "roll": "Publisher",
+  "blocked": false,
+  "language": "en",
+  "status": "Approved",
+  "playerId": null,
+  "firstname": "Abubakar",
+  "lastname": "Ahmed",
+  "email": "wdv63829@zwoho.com",
+  "password": "$2a$10$2drzgp135NcIjGdWZ5.PhOL1.nxH6z33nGJs.4Dhla9B.vRUKtMDK",
+  "phone_number": "+966173972197321",
+  "createdAt": {
+    "$date": "2020-12-30T10:34:41.587Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false
+},{
+  "_id": {
+    "$oid": "5fec5a7b6a25ef20c85b617d"
+  },
+  "roll": "Publisher",
+  "blocked": false,
+  "language": "ar",
+  "status": "Approved",
+  "playerId": null,
+  "firstname": "django",
+  "lastname": "rest",
+  "email": "gta09074@cuoly.com",
+  "password": "$2a$10$eY0.IeE3cjleJQSgen439uh4aG8ENUwcg3qfT9b7PAGIxOV0ERZOW",
+  "phone_number": "+96632742372384",
+  "createdAt": {
+    "$date": "2020-12-30T10:46:19.272Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false,
+  "profile_image": "upload/profile_image-stuffed chicken butter.jpg"
+},{
+  "_id": {
+    "$oid": "5fec5d3b6a25ef20c85b6197"
+  },
+  "roll": "Publisher",
+  "blocked": false,
+  "language": "en",
+  "status": "Approved",
+  "playerId": null,
+  "firstname": "Tom",
+  "lastname": "Hanks",
+  "email": "crz22957@cuoly.com",
+  "password": "$2a$10$cNQRfXZnSinXjnkXgOhuMOIR/Yl4I1PdRHhzh4aSZGY9w7CnhaifK",
+  "phone_number": "+966312126127312",
+  "createdAt": {
+    "$date": "2020-12-30T10:58:03.044Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false
+},{
+  "_id": {
+    "$oid": "5fec6ec66a25ef20c85b6239"
+  },
+  "roll": "Publisher",
+  "blocked": false,
+  "language": "en",
+  "status": "Approved",
+  "playerId": null,
+  "firstname": "Jack",
+  "lastname": "Harber",
+  "email": "xfq35897@cuoly.com",
+  "password": "$2a$10$GPD2UWbkg6UC8DjfZ.52H.b3NN4G0mFnkz.iZpqalLEXj7OHfHBUy",
+  "phone_number": "+966237947293734",
+  "createdAt": {
+    "$date": "2020-12-30T12:12:54.724Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false
+},{
+  "_id": {
+    "$oid": "5fec701e6a25ef20c85b624e"
+  },
+  "roll": "Publisher",
+  "blocked": false,
+  "language": "en",
+  "status": "Approved",
+  "playerId": null,
+  "firstname": "Mark",
+  "lastname": "Johnson",
+  "email": "nhi58162@cuoly.com",
+  "password": "$2a$10$NNYXwwi6Zme3GGK2m1LNHOZY28Tnk/GIHTFudnkacpeaFUHFGciCm",
+  "phone_number": "+966329749237327",
+  "createdAt": {
+    "$date": "2020-12-30T12:18:38.744Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false
+},{
+  "_id": {
+    "$oid": "5fed5896eeb771258c184625"
+  },
+  "roll": "Publisher",
+  "blocked": false,
+  "language": "en",
+  "status": "Approved",
+  "playerId": null,
+  "firstname": "Hilal",
+  "lastname": "Company",
+  "email": "yru49197@eoopy.com",
+  "password": "$2a$10$4nE6Bhfc9cgqlfiiyKbvueSad9ndpbBRG6deYytsHewYZbSbEEXhq",
+  "phone_number": "+9663321334241",
+  "createdAt": {
+    "$date": "2020-12-31T04:50:30.554Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false
+},{
+  "_id": {
+    "$oid": "5ff40b60e8512d288c29266e"
+  },
+  "roll": "Publisher",
+  "blocked": false,
+  "language": "en",
+  "status": "Approved",
+  "playerId": null,
+  "firstname": "Taymoor",
+  "lastname": "Akbar",
+  "email": "taymoor@gmail.com",
+  "password": "$2a$10$nBS7LTqucdCHR3.83b6BEuwbT8/Oto5/LLzuvV8bGOaxLp4/I2lBW",
+  "phone_number": "+9663232323232",
+  "createdAt": {
+    "$date": "2021-01-05T06:46:56.162Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null
+},{
+  "_id": {
+    "$oid": "5ff6b35729526c4f90b69d2e"
+  },
+  "roll": "Publisher",
+  "blocked": false,
+  "language": "ar",
+  "status": "Approved",
+  "playerId": null,
+  "firstname": "Taymoor",
+  "lastname": "Akbar",
+  "email": "taymoorakbar12121@outlook.com",
+  "password": "$2a$10$owZk4lDByHc0/kt/abbFpOmfBjWjDx6lQieqBJiHrzfxNL4S3EryK",
+  "phone_number": "+9663328410304",
+  "createdAt": {
+    "$date": "2021-01-07T07:08:07.014Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": true
+},{
+  "_id": {
+    "$oid": "601a5a99da624f2a8419d30d"
+  },
+  "roll": "Publisher",
+  "blocked": false,
+  "language": "en",
+  "status": "Approved",
+  "playerId": null,
+  "firstname": "Kaleen",
+  "lastname": "Bhai",
+  "email": "kaleenbhai@gmail.com",
+  "password": "$2a$10$TLbip1Ti8IPtHMSOAIfrluQCiAv1scLiX0G8GEzpqvqrKO3vLWsHC",
+  "phone_number": "+9664343543443",
+  "createdAt": {
+    "$date": "2021-02-03T08:11:05.148Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": true,
+  "profile_image": "upload/profile_image-359e111f6d12e4ca845c02f487891815.jpg"
+},{
+  "_id": {
+    "$oid": "601d890e1ab4b355704bccf4"
+  },
+  "roll": "User",
+  "blocked": false,
+  "language": "en",
+  "status": "Approved",
+  "playerId": "eb233e0a-744a-4cc4-a240-109fb4d733bc",
+  "firstname": "Uzair",
+  "lastname": "Ali",
+  "email": "uzairalimurtaz1a@gmail.com",
+  "createdAt": {
+    "$date": "2021-02-05T18:06:06.656Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false,
+  "password": "$2a$10$rWRjBsGi1CI7qOK4BSjKzONKUCIDYft6Wit4dwfUlXjZ8E8o.VjRa",
+  "phone_number": "+966333111999"
+},{
+  "_id": {
+    "$oid": "601d8aa11ab4b355704bcd0a"
+  },
+  "roll": "User",
+  "blocked": false,
+  "language": "en",
+  "status": "Approved",
+  "playerId": "9c111f3e-e7eb-43f2-9f3a-c45a693a8d00",
+  "firstname": "John",
+  "lastname": "Doe",
+  "email": "john@gmail.com",
+  "password": "$2a$10$Q5JZ34cmrwvpKYyGVsQiDesPgp62rMExNwZimDcM17DMc0hbXmtHe",
+  "phone_number": "+966233566877",
+  "createdAt": {
+    "$date": "2021-02-05T18:12:49.914Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false
+},{
+  "_id": {
+    "$oid": "60211e439d603231803b053a"
+  },
+  "roll": "User",
+  "blocked": false,
+  "language": "en",
+  "status": "Approved",
+  "playerId": "55022dac-07d6-434b-86da-52c206f63a2f",
+  "firstname": "Ehsan",
+  "lastname": "Ul",
+  "email": "ehsanulhaq0027@gmail.com",
+  "createdAt": {
+    "$date": "2021-02-08T11:19:31.503Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null
+},{
+  "_id": {
+    "$oid": "60211edb9d603231803b053c"
+  },
+  "roll": "User",
+  "blocked": false,
+  "language": "ar",
+  "status": "Approved",
+  "playerId": "55022dac-07d6-434b-86da-52c206f63a2f",
+  "firstname": "Kamran",
+  "lastname": "Ali",
+  "email": "alik11590@gmail.com",
+  "createdAt": {
+    "$date": "2021-02-08T11:22:03.281Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": true,
+  "password": "$2a$10$o0ug/nNIAmk8SAfv3h0zI.o6VxkSxk/.n.wfquWJFdCCKFJlooW0C"
+},{
+  "_id": {
+    "$oid": "60222db27ddaae2decdd4ae3"
+  },
+  "roll": "User",
+  "blocked": true,
+  "language": "en",
+  "status": "Approved",
+  "playerId": null,
+  "firstname": "Muhammad",
+  "lastname": "Abdullah",
+  "email": "m.abdullah@gmail.com",
+  "password": "$2a$10$IAGovhJ7Q/DDOwAq/Oq4F.k6XzeLjrwWyBT.AAvkf4/jmcl7tGREW",
+  "phone_number": "+966555555454",
+  "createdAt": {
+    "$date": "2021-02-09T06:37:38.232Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6024e3928ce821486825beca"
+  },
+  "roll": "User",
+  "blocked": false,
+  "language": "en",
+  "status": "Approved",
+  "playerId": "f48fdf34-3b78-4ebc-ac9b-6b5981173c63",
+  "firstname": "Uzair",
+  "lastname": "Ali",
+  "email": "uzairalimurtaza@gmail.com",
+  "createdAt": {
+    "$date": "2021-02-11T07:58:10.881Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": true
+},{
+  "_id": {
+    "$oid": "602519d76686664e208b40c3"
+  },
+  "roll": "User",
+  "blocked": false,
+  "password": "$2a$10$QNPWxuKuHGKN0TBHnHwBh.4D7fUe1tYLS1OrKagRMEwuEdXpy785C",
+  "language": "en",
+  "status": "Approved",
+  "playerId": "9c111f3e-e7eb-43f2-9f3a-c45a693a8d00",
+  "firstname": "Kamran",
+  "lastname": "Ghafoor",
+  "email": "i.kamranghafoor45@gmail.com",
+  "createdAt": {
+    "$date": "2021-02-11T11:49:43.332Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false,
+  "profile_image": "upload/profile_image-scaled_f28c2b5c-0dfb-4168-a5cb-390f6a052a586692605597336592927.jpg"
+},{
+  "_id": {
+    "$oid": "602ce69b4ab6ab59e8848a43"
+  },
+  "roll": "User",
+  "blocked": false,
+  "password": null,
+  "language": "en",
+  "status": "Approved",
+  "playerId": "9c111f3e-e7eb-43f2-9f3a-c45a693a8d00",
+  "firstname": "Kamran",
+  "lastname": "Ghafoor",
+  "email": "kamranghafoor6@gmail.com",
+  "createdAt": {
+    "$date": "2021-02-17T09:49:15.493Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null
+},{
+  "_id": {
+    "$oid": "6036338426180d7254c62ba8"
+  },
+  "roll": "User",
+  "blocked": false,
+  "password": "$2a$10$RLtXFz9LceMjpAv7bKEKD.4Ho/Y9OL1EJmgjfHnbXAzL1g1hieYmi",
+  "language": "ar",
+  "status": "Approved",
+  "playerId": "3efbd616-d641-485b-ad10-241b04eb6b69",
+  "firstname": "Jos",
+  "lastname": "Buttler",
+  "email": "buttler@gmail.com",
+  "phone_number": "+966234567891",
+  "createdAt": {
+    "$date": "2021-02-24T11:07:48.782Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": true
+},{
+  "_id": {
+    "$oid": "603cbd56e2e7553c20261278"
+  },
+  "roll": "User",
+  "blocked": false,
+  "password": "$2a$10$H9cM8EmF8yxGaywhgGfJuekzO0BvAzOs0Nx9OSxJ.9QfLfZCKKvoG",
+  "language": "ar",
+  "status": "Approved",
+  "playerId": "3efbd616-d641-485b-ad10-241b04eb6b69",
+  "firstname": "Kamran",
+  "lastname": "Haider",
+  "email": "kamran@gmail.com",
+  "phone_number": "+966234112341",
+  "createdAt": {
+    "$date": "2021-03-01T10:09:26.642Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false
+},{
+  "_id": {
+    "$oid": "603dd820358564196c05557b"
+  },
+  "roll": "Publisher",
+  "blocked": false,
+  "password": "$2a$10$Q4jayWH3vNvscbHEBe1U7eoSGVA/ckOvg2WFNUqzCyv3oQo4QF0ky",
+  "language": "ar",
+  "status": "Approved",
+  "playerId": null,
+  "firstname": "Taymoor",
+  "lastname": "Akbar",
+  "email": "taimoorak4@gmail.com",
+  "phone_number": "+923328410304",
+  "createdAt": {
+    "$date": "2021-03-02T06:16:00.132Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false
+},{
+  "_id": {
+    "$oid": "603dda7bc50c60163859efaa"
+  },
+  "roll": "Publisher",
+  "blocked": false,
+  "password": "$2a$10$loPOMMKvXCRO6kHtoW7vAeG.yN5PnwM8fO0HFbHnF5VESDFjyh51i",
+  "language": "ar",
+  "status": "Approved",
+  "playerId": null,
+  "firstname": "taimoor",
+  "lastname": "akbar",
+  "email": "taimoorak3@gmail.com",
+  "phone_number": "+966565467467",
+  "createdAt": {
+    "$date": "2021-03-02T06:26:03.036Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false,
+  "profile_image": "upload/profile_image-qrcode_localhost.png"
+},{
+  "_id": {
+    "$oid": "603f618f8126b73dac280a86"
+  },
+  "roll": "User",
+  "blocked": false,
+  "password": null,
+  "language": "en",
+  "status": "Approved",
+  "playerId": "9cd98a21-2bcd-4584-aa17-2cf16010f474",
+  "firstname": "Taymoor",
+  "lastname": "Akbar",
+  "email": "taymur.akbar11@gmail.com",
+  "createdAt": {
+    "$date": "2021-03-03T10:14:39.903Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": true
+},{
+  "_id": {
+    "$oid": "603f6bd60dcc5c3f68d2f312"
+  },
+  "roll": "User",
+  "blocked": false,
+  "password": "$2a$10$/IteEODNvuWt39QYBtlQCeUZUhE3Jc3WJz3LRG0Xeo8PK/ZqhF4nS",
+  "language": "en",
+  "status": "Approved",
+  "playerId": null,
+  "firstname": "Taymoor",
+  "lastname": "Akbar",
+  "email": "taymoorakbar@outlook.com",
+  "phone_number": "+966111111111",
+  "createdAt": {
+    "$date": "2021-03-03T10:58:30.311Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603f6cb289395f38448ac3cc"
+  },
+  "roll": "User",
+  "blocked": false,
+  "password": "$2a$10$QvZy/H2TNzIf4HHGDjAyDO9K9BJ3TqCRohhPN4p.X6rs7dj/gXATq",
+  "language": "en",
+  "status": "Pending",
+  "playerId": "9cd98a21-2bcd-4584-aa17-2cf16010f474",
+  "firstname": "Taimoor",
+  "lastname": "Akbar",
+  "email": "taymur.akbar1@gmail.com",
+  "phone_number": "+966555555555",
+  "createdAt": {
+    "$date": "2021-03-03T11:02:10.131Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": true
+},{
+  "_id": {
+    "$oid": "603f8184a6453c3114ce5b43"
+  },
+  "roll": "User",
+  "blocked": false,
+  "password": "$2a$10$UjDfGGNTIsU7f5qcz0nQD.0aqO8YusczM7DKyJwxteGCSSHnqKCSe",
+  "language": "en",
+  "status": "Approved",
+  "playerId": "3efbd616-d641-485b-ad10-241b04eb6b69",
+  "firstname": "Uzair",
+  "lastname": "Ali",
+  "email": "uzairali@gmail.com",
+  "phone_number": "+966231455651",
+  "createdAt": {
+    "$date": "2021-03-03T12:31:00.950Z"
+  },
+  "__v": 0,
+  "otp": "",
+  "otp_expires": null,
+  "active": false
+}]
